@@ -1,6 +1,5 @@
-# SystemAnalysisProject
+This project aims to find the correlation between coal usage and temperature. I made the analysis of the consumption of coal based on years and see how it effected the weather change. You can clearly see the effect of coal usage after running the code.  
 
 
-Check "Summary" for detailed  information. 
+For more detailed information, please check "Summary.pdf"
 
-I couldn't upload the related csv file(data) because it was too big.
